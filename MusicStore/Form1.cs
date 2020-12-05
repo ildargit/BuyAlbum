@@ -17,6 +17,7 @@ namespace MusicStore
         public Form1()
         {
             InitializeComponent();
+            //test
             rdoCd.CheckedChanged += RdoCd_CheckedChanged;
             rdoItunes.CheckedChanged += RdoCd_CheckedChanged;
             rdoVinyl.CheckedChanged += RdoCd_CheckedChanged;
